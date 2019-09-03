@@ -14,6 +14,7 @@ def main():
             trash_bin['type'] + "\t" +
             trash_bin['address']
         )
+        
 
 
 if __name__ == "__main__":
